@@ -1,13 +1,13 @@
 # Hi, I'm László 👋
 
 Senior Frontend Engineer with 7 years of experience, currently expanding into full-stack development and AI engineering.
-I build clean, performant, and accessible web applications — and I'm always working on something new.
+I build clean, performant, and accessible web applications, and I'm always working on something new.
 
 ---
 
 ## 🔨 What I'm working on
 
-All my projects live here on GitHub — ideas turned into real things, always in progress, always open to explore.
+All my projects live here on GitHub, ideas turned into real things, always in progress, always open to explore.
 
 ---
 
@@ -39,4 +39,4 @@ Accessibility (NVDA) · Responsive Design · Performance Optimization
 
 ---
 
-<sub>Always learning. Currently studying Japanese — JLPT N5 in progress.</sub>
+<sub>Always learning. Currently studying Japanese, JLPT N5 in progress.</sub>
