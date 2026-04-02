@@ -1,6 +1,6 @@
 # Hi, I'm László 👋
 
-Senior Frontend Engineer with 7 years of experience, currently expanding into full-stack development and AI engineering.
+Senior Frontend Engineer with 7+ years of experience, currently expanding into full-stack development and AI engineering.
 I build clean, performant, and accessible web applications, and I'm always working on something new.
 
 ---
